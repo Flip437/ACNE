@@ -50,10 +50,10 @@ a:focus {
   font-size: 14px;
   font-family: "Roboto", sans-serif; }
 
-ul {
+/* ul {
   margin: 0; }
   ul li {
-    list-style: none; }
+    list-style: none; } */
 
 img {
   height: auto;
@@ -1931,7 +1931,5 @@ select.form-control {
 
 textarea.form-control {
   height: 140px; }
-
-@import url(css/reset_ul_li.css);
 
 /*# sourceMappingURL=style.css.map */

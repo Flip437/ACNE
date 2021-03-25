@@ -1,11 +1,6 @@
-ul {
-  all: initial; }
-  ul li {
+#someselector {
+  all: initial;
+  * {
     all: unset;
   }
-
-/* 
-ul {
-  margin: 0; }
-  ul li {
-    list-style: none; } */
+}
