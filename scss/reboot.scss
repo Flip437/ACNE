@@ -1,4 +1,7 @@
-
+* {
+    margin: 10px;
+    padding: 25px;
+}
 
 body {
     font-family: $fonts;
@@ -40,13 +43,13 @@ a:focus {
     font-family: $fonts;
 }
 
-// ul {
-//     margin: 0;
+ul {
+    margin: 0;
 
-//     li {
-//         list-style: none;
-//     }
-// }
+    li {
+        list-style: none;
+    }
+}
 
 img {
     height: auto;
