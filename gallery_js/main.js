@@ -84,7 +84,7 @@
 
 	// magnific popup
 	$('.gallery').each(function() {
-		$('.image-popup').magnificPopup({
+		$(this).magnificPopup({
 			delegate: 'a', // the selector for gallery item
 			type: 'image',
 			closeOnContentClick: true,
@@ -105,28 +105,6 @@
 			}
 		});
 	});
-
-
-	$('.gallery').each(function() { // the containers for all your galleries
-    $(this).magnificPopup({
-        delegate: 'a', // the selector for gallery item
-        type: 'image',
-        gallery: {
-          enabled:true
-        }
-    });
-});
-
-
-
-
-
-
-
-
-
-
-
 
   $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
     disableOn: 700,
