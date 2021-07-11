@@ -8313,7 +8313,7 @@ h1, h2, h3, h4, h5,
     cursor: pointer;
     padding-right: 0;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 15px;
     letter-spacing: .1em; }
     .ftco-navbar-light .navbar-toggler:focus {
       outline: none !important; }
@@ -8425,7 +8425,7 @@ h1, h2, h3, h4, h5,
         .hero-wrap .slider-text p strong a {
           color: #000000; }
     .hero-wrap .slider-text .breadcrumbs {
-      font-size: 16px;
+      font-size: 15px;
       font-weight: 400;
       margin-bottom: 20px;
       z-index: 99;
@@ -8805,7 +8805,7 @@ h1, h2, h3, h4, h5,
   .work h2 {
     color: var(--secondary);
     line-height: 1.2;
-    font-size: 16px;
+    font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 1px; }
@@ -8953,7 +8953,7 @@ textarea.form-control {
     position: absolute;
     top: 50% !important;
     right: 15px;
-    font-size: 16px;
+    font-size: 15px;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%); }
@@ -9031,7 +9031,7 @@ textarea.form-control {
   .footer .block-21 .text {
     width: calc(100% - 100px); }
     .footer .block-21 .text .heading {
-      font-size: 16px;
+      font-size: 15px;
       font-weight: 400;
       line-height: 1.4; }
       .footer .block-21 .text .heading a {
@@ -9254,7 +9254,7 @@ textarea.form-control {
       color: #df433b; }
   .testimony-wrap .name {
     font-weight: 400;
-    font-size: 16px;
+    font-size: 15px;
     margin-bottom: 0;
     color: #000000; }
   .testimony-wrap .rate span {
@@ -9470,7 +9470,7 @@ textarea.form-control {
 .block-21 .text {
   width: calc(100% - 100px); }
   .block-21 .text .heading {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400; }
     .block-21 .text .heading a {
       color: #000000; }

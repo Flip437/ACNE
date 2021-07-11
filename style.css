@@ -318,12 +318,12 @@ input:focus {
   color: #ffffff;
   border-radius: 0;
   padding: 0 30px;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 50px;
   font-weight: 500;
   text-transform: capitalize; }
   .vizew-btn:hover, .vizew-btn:focus {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
     background-color: #0f1112;
     color: #ffffff;
@@ -468,7 +468,7 @@ input:focus {
         background-color: transparent;
         top: 50%;
         right: 20px;
-        font-size: 16px;
+        font-size: 15px;
         z-index: 99;
         border: none;
         cursor: pointer;
@@ -487,7 +487,7 @@ input:focus {
     padding: 0 15px;
     height: 50px;
     line-height: 50px;
-    font-size: 16px;
+    font-size: 15px;
     text-align: center; }
     .top-header-area .login-btn:hover, .top-header-area .login-btn:focus {
       color: #db4437; }
@@ -524,7 +524,7 @@ input:focus {
       .header-area .vizew-main-menu .classy-navbar .classynav ul li a {
         font-weight: 700;
         text-transform: uppercase;
-        font-size: 16px;
+        font-size: 15px;
         color: #ffffff;
         height: 90px;
         line-height: 90px;
@@ -644,7 +644,7 @@ input:focus {
     border-radius: 0; }
     .vizew-breadcrumb .breadcrumb .breadcrumb-item {
       color: #a6a6a6;
-      font-size: 16px;
+      font-size: 15px;
       font-weight: 400; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .vizew-breadcrumb .breadcrumb .breadcrumb-item {
@@ -657,7 +657,7 @@ input:focus {
           font-size: 12px; } }
       .vizew-breadcrumb .breadcrumb .breadcrumb-item a {
         color: #fff;
-        font-size: 16px;
+        font-size: 15px;
         font-weight: 400; }
         @media only screen and (min-width: 992px) and (max-width: 1199px) {
           .vizew-breadcrumb .breadcrumb .breadcrumb-item a {
@@ -721,7 +721,7 @@ input:focus {
       color: #ffffff;
       margin-bottom: 5px;
       display: block;
-      font-size: 16px;
+      font-size: 15px;
       font-weight: 700; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .single-blog-post .post-content .post-title {
@@ -775,7 +775,7 @@ input:focus {
         margin-bottom: 10px;
         display: block;
         font-weight: 700;
-        font-size: 16px;
+        font-size: 15px;
         line-height: 1.5; }
         @media only screen and (min-width: 992px) and (max-width: 1199px) {
           .single-blog-post.style-2 .post-content .post-title {
@@ -812,7 +812,7 @@ input:focus {
       margin-bottom: 15px;
       display: block;
       font-weight: 700;
-      font-size: 16px;
+      font-size: 15px;
       line-height: 1.5; }
       @media only screen and (max-width: 767px) {
         .single-blog-post.style-3 .post-content .post-title {
@@ -893,7 +893,7 @@ input:focus {
           font-size: 18px; } }
       @media only screen and (max-width: 767px) {
         .single-feature-post.video-post .post-content .post-title {
-          font-size: 16px; } }
+          font-size: 15px; } }
       .single-feature-post.video-post .post-content .post-title:hover, .single-feature-post.video-post .post-content .post-title:focus {
         color: #0f1112; }
     .single-feature-post.video-post .post-content .post-meta {
@@ -983,7 +983,7 @@ input:focus {
           font-size: 18px; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .single-post-area .post-content .post-title {
-          font-size: 16px; } }
+          font-size: 15px; } }
       @media only screen and (max-width: 767px) {
         .single-post-area .post-content .post-title {
           font-size: 18px; } }
@@ -1024,7 +1024,7 @@ input:focus {
     width: 30px;
     height: 30px;
     border-radius: 2px;
-    font-size: 16px;
+    font-size: 15px;
     color: #ffffff;
     text-align: center;
     line-height: 30px;
@@ -1089,7 +1089,7 @@ input:focus {
     min-width: 40px;
     height: 40px;
     line-height: 40px;
-    font-size: 16px;
+    font-size: 15px;
     color: #a6a6a6;
     text-transform: uppercase;
     text-align: center;
@@ -1127,7 +1127,7 @@ input:focus {
     margin-bottom: 15px; }
     @media only screen and (max-width: 767px) {
       .vizew-blockquote .blockquote-text {
-        font-size: 16px; } }
+        font-size: 15px; } }
 
 .unordered-list {
   position: relative;
@@ -1136,7 +1136,7 @@ input:focus {
     position: relative;
     z-index: 1;
     padding-left: 20px;
-    font-size: 16px;
+    font-size: 15px;
     margin-bottom: 10px; }
     @media only screen and (max-width: 767px) {
       .unordered-list li {
@@ -1159,7 +1159,7 @@ input:focus {
   .ordered-list li {
     position: relative;
     z-index: 1;
-    font-size: 16px;
+    font-size: 15px;
     margin-bottom: 10px;
     padding-left: 10px; }
     .ordered-list li:last-child {
@@ -1217,7 +1217,7 @@ input:focus {
       line-height: 40px;
       background-color: #db4437;
       margin-bottom: 10px;
-      font-size: 16px; }
+      font-size: 15px; }
       @media only screen and (max-width: 767px) {
         .post-details-content .post-share-info a {
           width: 30px;
@@ -1327,7 +1327,7 @@ input:focus {
     margin-bottom: 10px; }
     @media only screen and (max-width: 767px) {
       .vizew-post-author .post-author-desc a {
-        font-size: 16px; } }
+        font-size: 15px; } }
   .vizew-post-author .post-author-desc p {
     margin-bottom: 10px; }
     @media only screen and (max-width: 767px) {
@@ -1726,7 +1726,7 @@ input:focus {
       .author-widget .authors--meta-data p:last-child {
         border-right: none; }
       .author-widget .authors--meta-data p span {
-        font-size: 16px;
+        font-size: 15px;
         display: block;
         font-weight: 500; }
 
@@ -1770,7 +1770,7 @@ input:focus {
         text-align: center;
         line-height: 40px;
         color: #ffffff;
-        font-size: 16px;
+        font-size: 15px;
         margin-right: 5px; }
         .footer-area .footer-widget .footer-social-area a:last-child {
           margin-right: 0; }
@@ -1899,7 +1899,7 @@ input:focus {
       margin-bottom: 50px; } }
   .contact-form-area label {
     color: #a6a6a6;
-    font-size: 16px;
+    font-size: 15px;
     margin-bottom: 15px; }
     @media only screen and (max-width: 767px) {
       .contact-form-area label {
