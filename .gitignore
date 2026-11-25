@@ -1,2 +1,9 @@
 # Images en taille originale (non versionnées) ; le site utilise les versions réduites de img/
 img_originals/
+
+# Caches et fichiers système
+.sass-cache/
+.DS_Store
+Thumbs.db
+desktop.ini
+.claude/settings.local.json

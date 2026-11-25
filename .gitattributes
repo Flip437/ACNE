@@ -1,0 +1,13 @@
+# Fins de ligne uniformes (LF) même quand le site est modifié depuis Windows
+* text=auto eol=lf
+*.jpg binary
+*.jpeg binary
+*.JPG binary
+*.png binary
+*.gif binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.otf binary
